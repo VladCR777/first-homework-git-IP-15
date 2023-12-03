@@ -1,4 +1,7 @@
 from enum import Enum 
+"""
+imports the Enum class from the enum module
+"""
 class Atom:
     """
     Represents an atom with basic properties.
